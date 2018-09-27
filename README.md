@@ -24,7 +24,10 @@ The Rewarding Nature hackathon takes place during the CAPIGI conference. With a 
 - Natuurmonumenten: vegetatiekaarten
 - Satellietbeeld.nl: Hackathon partner NEO, specialist in geo information and earth observation, will prepare a selection of the images from satellietbeeld.nl for Noord Holland and Utrecht. 
 
+-Follow Up Event
+
 ## Access to experts
 During the hackathon RVO and NEO will host a strategic session with experts on the topic of herby grasslands. The aim is to identify improvements or indicators to monitor grasslands. During the hackathon there is continuous opportunity to interact with these experts.
 
 We want to direct your special attention to Ruth Howinson, who will present her study: [“Quantifying landscape-level land-use intensity patterns through radar-based remote sensing”.](https://drive.google.com/file/d/1evfuyS0lLzuAEsGI1ZnugLm555w4yrt1/view). Afterwards she will be available for questions from the hackathon participants.
+
