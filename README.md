@@ -6,7 +6,7 @@
 
 The Rewarding Nature hackathon takes place during the CAPIGI conference. With a mix of  coders, developers, data scientists, agronomists and other experts we have 28 hours to develop relevant solutions for farmers to help them innovate on biodiversity issues. *More specifically we are deep diving the issue of herby grasslands.*
 
-## Data
+## Data 
 - [AgroDataCube](http://agrodatacube.wur.nl) provides RESTful APIs for a large number of Dutch open agri data such as Agrarisch Agricultural Parcels (2012 - 2017), daily weather (1950 - 2018) as well as a height map of The Netherlands (AHN). The following data (among many others, See the docs for the full endpoint list and supported (spatial) operations) is available for each parcel (in Dutch):
   - AHN2 statistische informatie: count, sum, mean, stddev, min, max.
   - NDVI tijdserie (gemiddelde NDVI waarde per perceel, ongeveer 50 waarden per jaar), 2013 – 2017.
@@ -28,3 +28,31 @@ The Rewarding Nature hackathon takes place during the CAPIGI conference. With a 
 During the hackathon RVO and NEO will host a strategic session with experts on the topic of herby grasslands. The aim is to identify improvements or indicators to monitor grasslands. During the hackathon there is continuous opportunity to interact with these experts.
 
 We want to direct your special attention to Ruth Howinson, who will present her study: [“Quantifying landscape-level land-use intensity patterns through radar-based remote sensing”.](https://drive.google.com/file/d/1evfuyS0lLzuAEsGI1ZnugLm555w4yrt1/view). Afterwards she will be available for questions from the hackathon participants.
+
+
+# Rewarding Nature Follow Up Event
+Access to datasets is provided via the link in the [FarmHack Rewarding Nature Forum](https://forum.farmhack.nl/t/data-rewarding-nature-follow-up-event/97). 
+
+- RVO Data:
+  - 4 years of ANLB data (incl. strips)
+  - 4 years of crop parcel data (incl. biological parcels and grass parcels)
+  - Farm locations and numbers of animals
+  - Photo data
+  
+- Nectar Index Data: Dataset consists of nectar indexes of about 1500 locations in the Netherlands. Data is collected in road verges by enthusiast nature monitoring volunteers in 2017 en 2018, following a standard protocol. Dataset is owned by FLORON, it is donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct. 
+
+- WEnR-Landelijke Vegetatie Databank: A 'derivative' of the Landelijke Vegetatie Databank dataset containing 22,000 to 30,000 vegetation datapoint from the period 2008-2018. Doesn’t use the complete vegetation recordings (cover by species), but the amount of grasses and herbs per vegetation intake/datapoint.
+ 
+Variables such as: Bodemtype (bodemtype), Fysisch Geografische Regio (FGR), oppervlakte proefvlak (opp_proef), verhouding proefvlak (verhouding), natuurdoeltype (gebruikersvorm,] can be used to make a selection, or to explore the need for regional differentiation).
+
+Gebruikersvorm 'Agricultural grassland (regular or ANLb)': this group contains both regular agricultural grassland and grasslands for which ANLb management packages have been closed. These two forms of management can make a big difference to herbal richness, but further data differentiation is therefore not possible. Make sure to check the explanation associated with the data. 
+
+- Veluwemeerkust 2017 Data: This is a 'derivative' of the Landelijke Vegetatie Databank dataset. Dataset with grassland phase of the versterker coast north of Harderwijk. Donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct.
+
+- Bij12 Data: Data packages originating from 12 provinces, land managers, ministries. Consisting of pdf's of vegetatieopnames, turbo-files, GIS files (polygon and point files), map images. Will be become Centrale Vegetatiebank managed by Bij12.The Centrale Vegetatiebank is being filled in as we speak and not available at this time.
+
+- NDFF Data: Working on structural access to data. Overview of data avaliable on website, ordered by protocol: https://www.ndff.nl/overdendff/validatie/protocollen/overzicht-protocollen/
+
+
+
+
