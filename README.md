@@ -42,10 +42,10 @@ Access to datasets is provided via the link in the [FarmHack Rewarding Nature Fo
 - Nectar Index Data: Dataset consists of nectar indexes of about 1500 locations in the Netherlands. Data is collected in road verges by enthusiast nature monitoring volunteers in 2017 en 2018, following a standard protocol. Dataset is owned by FLORON, it is donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct. 
 
 - WEnR-Landelijke Vegetatie Databank: A 'derivative' of the Landelijke Vegetatie Databank dataset containing 22,000 to 30,000 vegetation datapoint from the period 2008-2018. Doesn’t use the complete vegetation recordings (cover by species), but the amount of grasses and herbs per vegetation intake/datapoint.
- 
-Variables such as: Bodemtype (bodemtype), Fysisch Geografische Regio (FGR), oppervlakte proefvlak (opp_proef), verhouding proefvlak (verhouding), natuurdoeltype (gebruikersvorm,] can be used to make a selection, or to explore the need for regional differentiation).
 
-Gebruikersvorm 'Agricultural grassland (regular or ANLb)': this group contains both regular agricultural grassland and grasslands for which ANLb management packages have been closed. These two forms of management can make a big difference to herbal richness, but further data differentiation is therefore not possible. Make sure to check the explanation associated with the data. 
+  Variables such as: Bodemtype (bodemtype), Fysisch Geografische Regio (FGR), oppervlakte proefvlak (opp_proef), verhouding proefvlak  (verhouding), natuurdoeltype (gebruikersvorm,] can be used to make a selection, or to explore the need for regional differentiation).
+
+  Gebruikersvorm 'Agricultural grassland (regular or ANLb)': this group contains both regular agricultural grassland and grasslands for which ANLb management packages have been closed. These two forms of management can make a big difference to herbal richness, but further data differentiation is therefore not possible. Make sure to check the explanation associated with the data. 
 
 - Veluwemeerkust 2017 Data: This is a 'derivative' of the Landelijke Vegetatie Databank dataset. Dataset with grassland phase of the versterker coast north of Harderwijk. Donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct.
 
