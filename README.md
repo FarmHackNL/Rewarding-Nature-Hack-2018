@@ -47,7 +47,7 @@ Access to datasets is provided via the link in the [FarmHack Rewarding Nature Fo
 
   Gebruikersvorm 'Agricultural grassland (regular or ANLb)': this group contains both regular agricultural grassland and grasslands for which ANLb management packages have been closed. These two forms of management can make a big difference to herbal richness, but further data differentiation is therefore not possible. Make sure to check the explanation associated with the data. 
 
-- Veluwemeerkust 2017 Data: This is a 'derivative' of the Landelijke Vegetatie Databank dataset. Dataset with grassland phase of the versterker coast north of Harderwijk. Donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct.
+- Veluwemeerkust 2017 Data: Dataset with grassland phase of the versterker coast north of Harderwijk. Donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct.
 
 - Bij12 Data: Data packages originating from 12 provinces, land managers, ministries. Consisting of pdf's of vegetatieopnames, turbo-files, GIS files (polygon and point files), map images. Will be become Centrale Vegetatiebank managed by Bij12.The Centrale Vegetatiebank is being filled in as we speak and not available at this time.
 
