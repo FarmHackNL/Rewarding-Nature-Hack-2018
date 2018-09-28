@@ -36,9 +36,10 @@ Access to datasets is provided via the link in the [FarmHack Rewarding Nature Fo
 - RVO Data:
   - 4 years of ANLB data (incl. strips)
   - 4 years of crop parcel data (incl. biological parcels and grass parcels)
-  - Farm locations and numbers of animals
   - Photo data
   
+  Subject to conditions stated in the ReadMe-Use Conditions file within the RVO folder.
+    
 - Nectar Index Data: Dataset consists of nectar indexes of about 1500 locations in the Netherlands. Data is collected in road verges by enthusiast nature monitoring volunteers in 2017 en 2018, following a standard protocol. Dataset is owned by FLORON, it is donated for the purposes of this hackathon and subject to conditions stated in the Farmhack Code of Conduct. 
 
 - WEnR-Landelijke Vegetatie Databank: A 'derivative' of the Landelijke Vegetatie Databank dataset containing 22,000 to 30,000 vegetation datapoint from the period 2008-2018. Doesn’t use the complete vegetation recordings (cover by species), but the amount of grasses and herbs per vegetation intake/datapoint.
